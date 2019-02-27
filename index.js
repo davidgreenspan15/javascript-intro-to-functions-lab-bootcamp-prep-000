@@ -17,7 +17,7 @@ lowercase.toLowerCase() === lowercase
 function sayHiToGrandma(string){
   if (string===whisper(string)){
   return ("I can't hear you!")
- if (string===shout(string)){
+ else if (string===shout(string)){
   return ("YES INDEED!") }
 }
 
